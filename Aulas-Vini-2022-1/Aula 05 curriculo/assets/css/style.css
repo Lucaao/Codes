@@ -1,0 +1,108 @@
+#tudo{
+    width:50%;
+    border: solid 1px black;
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+    padding: 30px 30px 30px 30px;
+    font-family: 'Calibri';
+}
+.linha{
+    clear: both;
+}
+h1{
+    text-align:center;
+    background-color: green;
+    border-radius: 5000px;
+    box-shadow: 5px 5px 5px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+h2{
+    font-family: 'Calibri';
+    font-size: 40px;
+    margin-bottom: 0px;
+    text-align: left;
+}
+h3{
+    font-size: 20px;
+    text-align: left;
+    margin-top: 30px;
+}
+h4{
+    margin-bottom: 0px;
+}
+p{
+    margin-bottom: 0px;
+    font-weight: lighter;
+    font-style: italic;
+}
+hr{
+    border-color: green;
+    margin-top:2px;
+}
+body {
+    background-image: url('../img/fundo\ site\ fundo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: bottom;
+}
+#foto{
+    width: 30%;
+    float:left;
+    margin-bottom: 20px;
+}
+#fotoeu{
+    max-width: 150px;
+    max-height: 150px;
+    border: solid 1px;
+    border-radius: 50%;
+}
+#informacao{
+    width: 50%;
+    float: left;
+    font-size: 22px;
+    font-family:'Calibri';
+}
+.corletras{
+    color: green;
+}
+.coluna1{
+    float: left;
+    text-align: left;
+    width: 45%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.coluna2{
+    float: left;
+    background-color: green;
+    width: 1px;
+    height: 400px;
+}
+.coluna3{
+    float: left;
+    text-align: left;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 45%;
+}
+.itens{
+    float: left;
+}
+.circle{
+    height: 10px;
+    width: 10px;
+    background-color: green;
+    border-radius: 50%;
+    float: right;
+    margin-left: 10px;
+}
+#formacao{
+    text-align: left;
+    margin: 2%;
+}
+#objetivos{
+    text-align: justify;
+    margin: 2%;
+}
