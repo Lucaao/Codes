@@ -1,0 +1,9 @@
+header{
+    background-image:url('../img/Paris/Paris\ fundo.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img-fluid{
+    width: 400px;
+}

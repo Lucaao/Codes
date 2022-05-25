@@ -1,0 +1,9 @@
+header{
+    background-image:url('../img/Cidades\ fundo.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img-fluid{
+    width: 400px;
+}

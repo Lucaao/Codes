@@ -1,0 +1,95 @@
+body{
+    width: 60%;
+    margin:0px auto;
+    margin-top: 10px;
+    font-family: 'Arial';
+    font-size: 12px;
+    background-color: rgba(0, 0, 0, 0.589);
+}
+#nome{
+    margin-right: 650px;
+}
+nav ul{
+    list-style-type: none;
+    display: inline-block;
+    text-align: right;
+    background-color: rgba(102, 102, 102, 0);
+}
+nav ul li{
+    padding-right:25px;
+    list-style-type: none;
+    display: inline-block;
+    text-align: right;
+    background-color: rgba(102, 102, 102, 0);
+}
+header{
+    padding:10px;
+    text-align: right;
+    background-color: rgb(255, 255, 255);
+    border: 1px hidden black;
+}
+#artigo1{
+    text-align: center;
+    background-color: rgb(93, 255, 214);
+    border: 1px solid;
+}
+#foto{
+    border-radius: 1000px;
+    width: 25%;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+#Quem{
+    margin:auto;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    text-align: center;
+    color:rgba(245, 245, 245, 0.705);
+}
+#EuSou{
+    font-size: 15px;
+    font-family: 'Calibri';
+}
+#artigo2{
+    background-color: grey;
+    text-align: center;
+    padding: 50px;
+}
+#Como{
+    color: white;
+}
+#Lupa{
+    width: 20px;
+    padding-top: 15px;
+}
+#artigo3{
+    background-color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+#PrincipaisTrab{
+    color: black;
+    padding: 25px 0px 0px 0px;
+}
+#artigoimagens{
+    display: flex;
+    flex-direction: row;
+}
+.Imagens{
+    width: 30%;
+    margin: 10px;
+    padding: 150px 0px 150px 0px;
+}
+footer{
+    width: 100%;
+    height: 30px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+    background-color: rgb(34, 34, 34);
+    color: white;
+    text-align: center;
+}
+
+
+

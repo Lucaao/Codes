@@ -1,0 +1,195 @@
+/*Estrutura geral*/
+*{
+    margin:0 auto;
+}
+body{
+    background-color: #e2e2e2;
+}
+.divTudo{
+    margin:0 auto;
+    font-family: 'Arial';
+}
+
+#divLinha{
+    clear: both;
+}
+/*Estrutura geral*/
+
+
+/*Estrutura cabeçalho*/
+#divCabecalho{
+    background-color: #162E58;
+    min-height: 100px;
+    padding:20px 50px 20px 50px;
+}
+#h1TituloCabecalho{
+    color: #fff;
+    font-size: 16px;
+    float: left;
+}
+.LogoCabecalho{
+    width: 110px;
+    float: right;
+}
+/*Estrutura cabeçalho*/
+
+
+/*Estrutura classificação*/
+#divClassificacao{
+    width: 60%;
+    background-color: #e2e2e2;
+}
+#tableClassificacao{
+    width: 100%;
+    background-color: #ffffff;
+}
+.h2TituloSessao{
+    font-size: 20px;
+    margin: 10px 0px 10px 10px;
+}
+.h3TituloGrupo{
+    font-size: 14px;
+    padding: 5px 5px 5px 5px;
+}
+/*Estrutura classificação*/
+
+
+/*Estrutura goleadores*/
+#divGoleadores{
+    width: 60%;
+    background-color: #fff;
+}
+#tableGoleadores {
+    width: 100%;
+    padding: 20px 10px 10px 10px;
+}
+.tdJogador{
+    text-align: left;
+    width: 90%;
+}
+.tdPosicaoGoleador{
+    width: 50px;
+    height: 50px;
+}
+.spanNomeClube{
+    color: darkgrey;
+    font-size: 12px;
+}
+/*Estrutura goleadores*/
+
+
+/*Estrutura jogos*/
+#divJogos{
+    width: 60%;
+    background-color: rgb(255, 255, 255);
+}
+#tableJogos{
+    width: 100%;
+    background-color: rgba(255, 0, 0, 0);
+}
+#tablejogos .tdTableJogos{
+    padding:10px 10px 10px 10px;
+}
+.tdTableJogos{
+    background-color: rgba(0, 128, 0, 0);
+    width: 48%;
+    float: left;
+}
+.tableJogo{
+    text-align: center;
+    width:100%;
+    height: 100%;
+    background-color: rgba(0, 0, 255, 0);
+}
+.tdTableGols{
+    width: 25%;
+    background-color:rgba(172, 255, 47, 0);
+}
+.tdFim{
+    background-color: rgba(0, 255, 255, 0);
+}
+.tdHorario{
+    text-align:left;
+    font-size: 12px;
+}
+.thTableJogo{
+    text-align:left;
+}
+.tdClube{
+    text-align: left;
+    width:50%;
+}
+/*Estrutura jogos*/
+
+
+/*Estrutura da tabela*/
+table, td, th{
+    border-bottom:ridge 1px;
+    padding:7px;
+}
+th{
+    color: darkgrey;
+    font-weight: normal;
+    font-size: 14px;
+    text-align: center;
+}
+td{
+    font-size: 14px;
+}
+/*Estrutura da tabela*/
+
+
+/*Tudo envolvido com clube*/
+.thNomeClube{
+    width: 50%;
+    text-align: left;
+}
+.thUltimas{
+    width: 20%;
+}
+.tdNomeClube{
+    text-align: left;
+}
+.tdBarraCorAzul{
+    border-left: 4px solid rgb(117, 117, 240);
+    height:100%;
+}
+.tdBarraCorLar{
+    border-left: 4px solid rgb(248, 152, 61);
+    height:100%;
+}
+.imgClube{
+    width: 20px;
+    height: 20px;
+}
+.tdUltimasCinco{
+    width: 20%;
+}
+.thUltimas{
+    width: 20%;
+}
+.divEmp{
+    background-image: url('../img/e.svg');
+    background-repeat: no-repeat;
+    height: 16px;
+    width: 16px;
+    float: right;
+    margin-right: 5px;
+}
+.divVit{
+    background-image: url('../img/v.svg');
+    background-repeat: no-repeat;
+    height: 16px;
+    width: 16px;
+    float: right;
+    margin-right: 5px;
+}
+.divDer{
+    background-image:url('../img/d.svg');
+    background-repeat: no-repeat;
+    height: 16px;
+    width: 16px;
+    float: right;
+    margin-right: 5px;
+}
+/*Tudo envolvido com clube*/

@@ -1,0 +1,54 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0px auto;
+    background-image: url('../img/Londres1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+    background-color: rgba(211, 211, 211, 0.589);
+    padding: 50px;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    border-bottom: 1px ridge;
+}
+section{
+    display: flex;
+    flex-wrap: nowrap;
+}
+nav{
+    padding: 30px;
+    width: 20%;
+    background-color: rgba(211, 211, 211, 0.589);
+    border-right: 1px ridge;
+    border-bottom: 1px ridge;
+}
+nav ul{
+    list-style-type: none;
+}
+article{
+    background-color: rgba(211, 211, 211, 0.589);
+    padding: 30px;
+    width: 80%;
+}
+footer{
+    background-color: rgba(211, 211, 211, 0.589);
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+    font-size: 10px;
+    border-top: 1px ridge;
+}
+@media (max-width:600px){
+    section{
+        flex-wrap: wrap;
+    }
+    nav{
+        width: 100%;
+    }
+    article{
+        width: 100%;
+    }
+}
