@@ -1,0 +1,15 @@
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_06\bin\Debug\net7.0\atividade_06.exe
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_06\bin\Debug\net7.0\atividade_06.deps.json
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_06\bin\Debug\net7.0\atividade_06.runtimeconfig.json
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_06\bin\Debug\net7.0\atividade_06.dll
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_06\bin\Debug\net7.0\atividade_06.pdb
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_06\obj\Debug\net7.0\atividade_06.csproj.AssemblyReference.cache
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_06\obj\Debug\net7.0\atividade_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_06\obj\Debug\net7.0\atividade_06.AssemblyInfoInputs.cache
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_06\obj\Debug\net7.0\atividade_06.AssemblyInfo.cs
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_06\obj\Debug\net7.0\atividade_06.csproj.CoreCompileInputs.cache
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_06\obj\Debug\net7.0\atividade_06.dll
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_06\obj\Debug\net7.0\refint\atividade_06.dll
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_06\obj\Debug\net7.0\atividade_06.pdb
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_06\obj\Debug\net7.0\atividade_06.genruntimeconfig.cache
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_06\obj\Debug\net7.0\ref\atividade_06.dll

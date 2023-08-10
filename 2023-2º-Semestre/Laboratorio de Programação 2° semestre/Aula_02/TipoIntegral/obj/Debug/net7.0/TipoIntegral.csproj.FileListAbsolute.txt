@@ -1,0 +1,15 @@
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoIntegral\bin\Debug\net7.0\TipoIntegral.exe
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoIntegral\bin\Debug\net7.0\TipoIntegral.deps.json
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoIntegral\bin\Debug\net7.0\TipoIntegral.runtimeconfig.json
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoIntegral\bin\Debug\net7.0\TipoIntegral.dll
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoIntegral\bin\Debug\net7.0\TipoIntegral.pdb
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoIntegral\obj\Debug\net7.0\TipoIntegral.csproj.AssemblyReference.cache
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoIntegral\obj\Debug\net7.0\TipoIntegral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoIntegral\obj\Debug\net7.0\TipoIntegral.AssemblyInfoInputs.cache
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoIntegral\obj\Debug\net7.0\TipoIntegral.AssemblyInfo.cs
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoIntegral\obj\Debug\net7.0\TipoIntegral.csproj.CoreCompileInputs.cache
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoIntegral\obj\Debug\net7.0\TipoIntegral.dll
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoIntegral\obj\Debug\net7.0\refint\TipoIntegral.dll
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoIntegral\obj\Debug\net7.0\TipoIntegral.pdb
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoIntegral\obj\Debug\net7.0\TipoIntegral.genruntimeconfig.cache
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoIntegral\obj\Debug\net7.0\ref\TipoIntegral.dll

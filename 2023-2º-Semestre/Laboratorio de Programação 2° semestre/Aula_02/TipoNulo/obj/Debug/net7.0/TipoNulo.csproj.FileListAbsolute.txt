@@ -1,0 +1,15 @@
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoNulo\obj\Debug\net7.0\TipoNulo.csproj.AssemblyReference.cache
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoNulo\obj\Debug\net7.0\TipoNulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoNulo\obj\Debug\net7.0\TipoNulo.AssemblyInfoInputs.cache
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoNulo\obj\Debug\net7.0\TipoNulo.AssemblyInfo.cs
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoNulo\obj\Debug\net7.0\TipoNulo.csproj.CoreCompileInputs.cache
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoNulo\bin\Debug\net7.0\TipoNulo.exe
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoNulo\bin\Debug\net7.0\TipoNulo.deps.json
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoNulo\bin\Debug\net7.0\TipoNulo.runtimeconfig.json
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoNulo\bin\Debug\net7.0\TipoNulo.dll
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoNulo\bin\Debug\net7.0\TipoNulo.pdb
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoNulo\obj\Debug\net7.0\TipoNulo.dll
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoNulo\obj\Debug\net7.0\refint\TipoNulo.dll
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoNulo\obj\Debug\net7.0\TipoNulo.pdb
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoNulo\obj\Debug\net7.0\TipoNulo.genruntimeconfig.cache
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TipoNulo\obj\Debug\net7.0\ref\TipoNulo.dll

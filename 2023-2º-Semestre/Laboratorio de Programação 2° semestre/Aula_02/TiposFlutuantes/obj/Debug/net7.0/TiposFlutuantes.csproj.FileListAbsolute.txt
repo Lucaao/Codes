@@ -1,0 +1,15 @@
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TiposFlutuantes\obj\Debug\net7.0\TiposFlutuantes.csproj.AssemblyReference.cache
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TiposFlutuantes\obj\Debug\net7.0\TiposFlutuantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TiposFlutuantes\obj\Debug\net7.0\TiposFlutuantes.AssemblyInfoInputs.cache
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TiposFlutuantes\obj\Debug\net7.0\TiposFlutuantes.AssemblyInfo.cs
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TiposFlutuantes\obj\Debug\net7.0\TiposFlutuantes.csproj.CoreCompileInputs.cache
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TiposFlutuantes\bin\Debug\net7.0\TiposFlutuantes.exe
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TiposFlutuantes\bin\Debug\net7.0\TiposFlutuantes.deps.json
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TiposFlutuantes\bin\Debug\net7.0\TiposFlutuantes.runtimeconfig.json
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TiposFlutuantes\bin\Debug\net7.0\TiposFlutuantes.dll
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TiposFlutuantes\bin\Debug\net7.0\TiposFlutuantes.pdb
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TiposFlutuantes\obj\Debug\net7.0\TiposFlutuantes.dll
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TiposFlutuantes\obj\Debug\net7.0\refint\TiposFlutuantes.dll
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TiposFlutuantes\obj\Debug\net7.0\TiposFlutuantes.pdb
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TiposFlutuantes\obj\Debug\net7.0\TiposFlutuantes.genruntimeconfig.cache
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02\TiposFlutuantes\obj\Debug\net7.0\ref\TiposFlutuantes.dll

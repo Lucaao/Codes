@@ -1,0 +1,30 @@
+C:\Users\lfe20\Documents\Aula\Laboratorio de Programação 2° semestre\Aula 01\hello_world\bin\Debug\net7.0\hello_world.exe
+C:\Users\lfe20\Documents\Aula\Laboratorio de Programação 2° semestre\Aula 01\hello_world\bin\Debug\net7.0\hello_world.deps.json
+C:\Users\lfe20\Documents\Aula\Laboratorio de Programação 2° semestre\Aula 01\hello_world\bin\Debug\net7.0\hello_world.runtimeconfig.json
+C:\Users\lfe20\Documents\Aula\Laboratorio de Programação 2° semestre\Aula 01\hello_world\bin\Debug\net7.0\hello_world.dll
+C:\Users\lfe20\Documents\Aula\Laboratorio de Programação 2° semestre\Aula 01\hello_world\bin\Debug\net7.0\hello_world.pdb
+C:\Users\lfe20\Documents\Aula\Laboratorio de Programação 2° semestre\Aula 01\hello_world\obj\Debug\net7.0\hello_world.csproj.AssemblyReference.cache
+C:\Users\lfe20\Documents\Aula\Laboratorio de Programação 2° semestre\Aula 01\hello_world\obj\Debug\net7.0\hello_world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfe20\Documents\Aula\Laboratorio de Programação 2° semestre\Aula 01\hello_world\obj\Debug\net7.0\hello_world.AssemblyInfoInputs.cache
+C:\Users\lfe20\Documents\Aula\Laboratorio de Programação 2° semestre\Aula 01\hello_world\obj\Debug\net7.0\hello_world.AssemblyInfo.cs
+C:\Users\lfe20\Documents\Aula\Laboratorio de Programação 2° semestre\Aula 01\hello_world\obj\Debug\net7.0\hello_world.csproj.CoreCompileInputs.cache
+C:\Users\lfe20\Documents\Aula\Laboratorio de Programação 2° semestre\Aula 01\hello_world\obj\Debug\net7.0\hello_world.dll
+C:\Users\lfe20\Documents\Aula\Laboratorio de Programação 2° semestre\Aula 01\hello_world\obj\Debug\net7.0\refint\hello_world.dll
+C:\Users\lfe20\Documents\Aula\Laboratorio de Programação 2° semestre\Aula 01\hello_world\obj\Debug\net7.0\hello_world.pdb
+C:\Users\lfe20\Documents\Aula\Laboratorio de Programação 2° semestre\Aula 01\hello_world\obj\Debug\net7.0\hello_world.genruntimeconfig.cache
+C:\Users\lfe20\Documents\Aula\Laboratorio de Programação 2° semestre\Aula 01\hello_world\obj\Debug\net7.0\ref\hello_world.dll
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula 01\hello_world\bin\Debug\net7.0\hello_world.exe
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula 01\hello_world\bin\Debug\net7.0\hello_world.deps.json
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula 01\hello_world\bin\Debug\net7.0\hello_world.runtimeconfig.json
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula 01\hello_world\bin\Debug\net7.0\hello_world.dll
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula 01\hello_world\bin\Debug\net7.0\hello_world.pdb
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula 01\hello_world\obj\Debug\net7.0\hello_world.csproj.AssemblyReference.cache
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula 01\hello_world\obj\Debug\net7.0\hello_world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula 01\hello_world\obj\Debug\net7.0\hello_world.AssemblyInfoInputs.cache
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula 01\hello_world\obj\Debug\net7.0\hello_world.AssemblyInfo.cs
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula 01\hello_world\obj\Debug\net7.0\hello_world.csproj.CoreCompileInputs.cache
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula 01\hello_world\obj\Debug\net7.0\hello_world.dll
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula 01\hello_world\obj\Debug\net7.0\refint\hello_world.dll
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula 01\hello_world\obj\Debug\net7.0\hello_world.pdb
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula 01\hello_world\obj\Debug\net7.0\hello_world.genruntimeconfig.cache
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula 01\hello_world\obj\Debug\net7.0\ref\hello_world.dll
