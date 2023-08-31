@@ -1,0 +1,15 @@
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_entradaDeDados\bin\Debug\net7.0\aula_03_entradaDeDados.exe
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_entradaDeDados\bin\Debug\net7.0\aula_03_entradaDeDados.deps.json
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_entradaDeDados\bin\Debug\net7.0\aula_03_entradaDeDados.runtimeconfig.json
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_entradaDeDados\bin\Debug\net7.0\aula_03_entradaDeDados.dll
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_entradaDeDados\bin\Debug\net7.0\aula_03_entradaDeDados.pdb
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_entradaDeDados\obj\Debug\net7.0\aula_03_entradaDeDados.csproj.AssemblyReference.cache
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_entradaDeDados\obj\Debug\net7.0\aula_03_entradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_entradaDeDados\obj\Debug\net7.0\aula_03_entradaDeDados.AssemblyInfoInputs.cache
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_entradaDeDados\obj\Debug\net7.0\aula_03_entradaDeDados.AssemblyInfo.cs
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_entradaDeDados\obj\Debug\net7.0\aula_03_entradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_entradaDeDados\obj\Debug\net7.0\aula_03_entradaDeDados.dll
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_entradaDeDados\obj\Debug\net7.0\refint\aula_03_entradaDeDados.dll
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_entradaDeDados\obj\Debug\net7.0\aula_03_entradaDeDados.pdb
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_entradaDeDados\obj\Debug\net7.0\aula_03_entradaDeDados.genruntimeconfig.cache
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_entradaDeDados\obj\Debug\net7.0\ref\aula_03_entradaDeDados.dll

@@ -1,0 +1,30 @@
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\bin\Debug\net7.0\atividade_04.exe
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\bin\Debug\net7.0\atividade_04.deps.json
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\bin\Debug\net7.0\atividade_04.runtimeconfig.json
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\bin\Debug\net7.0\atividade_04.dll
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\bin\Debug\net7.0\atividade_04.pdb
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\obj\Debug\net7.0\atividade_04.csproj.AssemblyReference.cache
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\obj\Debug\net7.0\atividade_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\obj\Debug\net7.0\atividade_04.AssemblyInfoInputs.cache
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\obj\Debug\net7.0\atividade_04.AssemblyInfo.cs
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\obj\Debug\net7.0\atividade_04.csproj.CoreCompileInputs.cache
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\obj\Debug\net7.0\atividade_04.dll
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\obj\Debug\net7.0\refint\atividade_04.dll
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\obj\Debug\net7.0\atividade_04.pdb
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\obj\Debug\net7.0\atividade_04.genruntimeconfig.cache
+C:\Users\lfe20\Documents\Aula\2° Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\obj\Debug\net7.0\ref\atividade_04.dll
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\bin\Debug\net7.0\atividade_04.exe
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\bin\Debug\net7.0\atividade_04.deps.json
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\bin\Debug\net7.0\atividade_04.runtimeconfig.json
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\bin\Debug\net7.0\atividade_04.dll
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\bin\Debug\net7.0\atividade_04.pdb
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\obj\Debug\net7.0\atividade_04.csproj.AssemblyReference.cache
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\obj\Debug\net7.0\atividade_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\obj\Debug\net7.0\atividade_04.AssemblyInfoInputs.cache
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\obj\Debug\net7.0\atividade_04.AssemblyInfo.cs
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\obj\Debug\net7.0\atividade_04.csproj.CoreCompileInputs.cache
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\obj\Debug\net7.0\atividade_04.dll
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\obj\Debug\net7.0\refint\atividade_04.dll
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\obj\Debug\net7.0\atividade_04.pdb
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\obj\Debug\net7.0\atividade_04.genruntimeconfig.cache
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_02_atividades\atividade_04\obj\Debug\net7.0\ref\atividade_04.dll

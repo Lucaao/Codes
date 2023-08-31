@@ -1,0 +1,15 @@
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_teste\bin\Debug\net7.0\aula_03_teste.exe
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_teste\bin\Debug\net7.0\aula_03_teste.deps.json
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_teste\bin\Debug\net7.0\aula_03_teste.runtimeconfig.json
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_teste\bin\Debug\net7.0\aula_03_teste.dll
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_teste\bin\Debug\net7.0\aula_03_teste.pdb
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_teste\obj\Debug\net7.0\aula_03_teste.csproj.AssemblyReference.cache
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_teste\obj\Debug\net7.0\aula_03_teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_teste\obj\Debug\net7.0\aula_03_teste.AssemblyInfoInputs.cache
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_teste\obj\Debug\net7.0\aula_03_teste.AssemblyInfo.cs
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_teste\obj\Debug\net7.0\aula_03_teste.csproj.CoreCompileInputs.cache
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_teste\obj\Debug\net7.0\aula_03_teste.dll
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_teste\obj\Debug\net7.0\refint\aula_03_teste.dll
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_teste\obj\Debug\net7.0\aula_03_teste.pdb
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_teste\obj\Debug\net7.0\aula_03_teste.genruntimeconfig.cache
+C:\Users\lfe20\Documents\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_03\aula_03_teste\obj\Debug\net7.0\ref\aula_03_teste.dll
