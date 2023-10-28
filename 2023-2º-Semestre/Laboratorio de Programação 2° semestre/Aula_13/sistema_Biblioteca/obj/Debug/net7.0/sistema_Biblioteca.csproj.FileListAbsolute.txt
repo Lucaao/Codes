@@ -1,0 +1,14 @@
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_13\sistema_Biblioteca\bin\Debug\net7.0\sistema_Biblioteca.exe
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_13\sistema_Biblioteca\bin\Debug\net7.0\sistema_Biblioteca.deps.json
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_13\sistema_Biblioteca\bin\Debug\net7.0\sistema_Biblioteca.runtimeconfig.json
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_13\sistema_Biblioteca\bin\Debug\net7.0\sistema_Biblioteca.dll
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_13\sistema_Biblioteca\bin\Debug\net7.0\sistema_Biblioteca.pdb
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_13\sistema_Biblioteca\obj\Debug\net7.0\sistema_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_13\sistema_Biblioteca\obj\Debug\net7.0\sistema_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_13\sistema_Biblioteca\obj\Debug\net7.0\sistema_Biblioteca.AssemblyInfo.cs
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_13\sistema_Biblioteca\obj\Debug\net7.0\sistema_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_13\sistema_Biblioteca\obj\Debug\net7.0\sistema_Biblioteca.dll
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_13\sistema_Biblioteca\obj\Debug\net7.0\refint\sistema_Biblioteca.dll
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_13\sistema_Biblioteca\obj\Debug\net7.0\sistema_Biblioteca.pdb
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_13\sistema_Biblioteca\obj\Debug\net7.0\sistema_Biblioteca.genruntimeconfig.cache
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_13\sistema_Biblioteca\obj\Debug\net7.0\ref\sistema_Biblioteca.dll
