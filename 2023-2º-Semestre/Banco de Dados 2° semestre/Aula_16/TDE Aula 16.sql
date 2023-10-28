@@ -8,7 +8,7 @@ CREATE TABLE Professores(
 CREATE TABLE Disciplinas(
     Id_Disc int not null primary key,
     Disciplina char(15),
-    Carga_horaria int
+    Carga_Horaria int
 );
 
 CREATE TABLE Softwares(
@@ -17,16 +17,22 @@ CREATE TABLE Softwares(
     Tipo char(20)
 );
 
-CREATE TABLE Leciona(
+CREATE TABLE Leciona (
     Id int not null primary key,
-    Professor_Id int not null
-    Constraint Professor_ensina_disciplina
-        foreign key (Professor_Id) references Professores(Id) 
+    Professor_Id int not null,
+    Constraint Professor_ensina
+        foreign key (Professor_Id) references Professores(Id),
+    Disciplina_Id int not null,
+    Constraint Disciplina_lecionada
+        foreign key (Disciplina_Id) references Disciplinas(Id_Disc)
 );
 
 CREATE TABLE Utiliza(
     Id int not null primary key,
-    Disciplina_Id int not null
-    Constraint Disciplina_tem_software
-        foreign key (Disciplina_Id) references Disciplinas(Id)
+    Disciplina_Id int not null,
+    Constraint Disciplina_utiliza_software
+        foreign key (Disciplina_Id) references Disciplinas(Id_Disc),
+    Software_Id int not null,
+    Constraint Software_tem_disciplina
+        foreign key (Software_Id) references Softwares(Id)
 );
