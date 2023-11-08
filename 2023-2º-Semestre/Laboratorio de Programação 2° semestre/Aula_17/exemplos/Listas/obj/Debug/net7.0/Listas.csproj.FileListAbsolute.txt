@@ -1,0 +1,14 @@
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_17\exemplos\Listas\bin\Debug\net7.0\Listas.exe
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_17\exemplos\Listas\bin\Debug\net7.0\Listas.deps.json
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_17\exemplos\Listas\bin\Debug\net7.0\Listas.runtimeconfig.json
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_17\exemplos\Listas\bin\Debug\net7.0\Listas.dll
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_17\exemplos\Listas\bin\Debug\net7.0\Listas.pdb
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_17\exemplos\Listas\obj\Debug\net7.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_17\exemplos\Listas\obj\Debug\net7.0\Listas.AssemblyInfoInputs.cache
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_17\exemplos\Listas\obj\Debug\net7.0\Listas.AssemblyInfo.cs
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_17\exemplos\Listas\obj\Debug\net7.0\Listas.csproj.CoreCompileInputs.cache
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_17\exemplos\Listas\obj\Debug\net7.0\Listas.dll
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_17\exemplos\Listas\obj\Debug\net7.0\refint\Listas.dll
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_17\exemplos\Listas\obj\Debug\net7.0\Listas.pdb
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_17\exemplos\Listas\obj\Debug\net7.0\Listas.genruntimeconfig.cache
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_17\exemplos\Listas\obj\Debug\net7.0\ref\Listas.dll

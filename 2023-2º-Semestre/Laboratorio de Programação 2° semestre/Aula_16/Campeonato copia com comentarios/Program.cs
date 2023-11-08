@@ -61,6 +61,8 @@ j10.Jogar();
 
 // Equipe 1 //
 Equipe equipe1 = new Equipe ("Imperial");
+// Adicionar nome a equipe caso não tivesse o parametro //
+//equipe1.NomeEquipe = "Imperial"; //
 
 // Adicionar jogadores //
 equipe1.AdicionarJogadores(j1);
@@ -71,6 +73,8 @@ equipe1.AdicionarJogadores(j5);
 
 // Equipe 2//
 Equipe equipe2 = new Equipe ("Astralis");
+// Adicionar nome a equipe caso não tivesse o parametro //
+//equipe1.NomeEquipe = "Astralis"; //
 
 // Adicionar jogadores //
 equipe2.AdicionarJogadores(j6);
@@ -81,6 +85,9 @@ equipe2.AdicionarJogadores(j10);
 
 // Campeonato //
 Campeonato campeonato1 = new Campeonato("CSGO Major Torrika");
+
+// Adicionar nome do campeonato, se não tivesse os parametros //
+//campeonato1.nomeCampeonato = "CSGO Major Torrika"; //
 
 // Equipes participando do campeonato //
 campeonato1.equipesParticipando.Add(equipe1);
