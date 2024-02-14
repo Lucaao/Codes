@@ -11,7 +11,7 @@ CREATE TABLE Categoria(
 CREATE TABLE Produtos(
     Codigo int not null primary key,
     Descricao varchar(100),
-    Data_Cadastro char(10),
+    Data_Cadastro date,
     Valor_Unitario int,
     Codigo_Categoria int not null,
     Constraint Produto_tem_categoria
@@ -21,7 +21,7 @@ CREATE TABLE Produtos(
 CREATE TABLE Pedido(
     Quantidade int not null primary key,
     Valor_Unitario int,
-    Data_Pedido char(10),
+    Data_Pedido date,
     Codigo_Produto int not null,
     Codigo_Fornecedor int not null,
     Constraint Pedido_tem_produto
@@ -82,8 +82,8 @@ SELECT * FROM Produtos
 /* Comando para listar todos produtos cadastrados */
 
 /* Comando para consultar os pedidos feitos no mês de outubro */
-SELECT Data_Pedido FROM Pedidos
-WHERE CONTAINS (Data_Pedido,'10')
+SELECT Data_Pedido FROM Pedido
+WHERE month (Data_Pedido) = 10;
 /* Comando para consultar os pedidos feitos no mês de outubro */
 
 /* Comando para consultar os produtos que tem "palavra" no nome */

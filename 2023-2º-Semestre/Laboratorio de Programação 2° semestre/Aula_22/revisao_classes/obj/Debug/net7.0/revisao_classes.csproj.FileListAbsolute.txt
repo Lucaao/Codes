@@ -1,0 +1,14 @@
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\revisao_classes\bin\Debug\net7.0\revisao_classes.exe
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\revisao_classes\bin\Debug\net7.0\revisao_classes.deps.json
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\revisao_classes\bin\Debug\net7.0\revisao_classes.runtimeconfig.json
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\revisao_classes\bin\Debug\net7.0\revisao_classes.dll
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\revisao_classes\bin\Debug\net7.0\revisao_classes.pdb
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\revisao_classes\obj\Debug\net7.0\revisao_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\revisao_classes\obj\Debug\net7.0\revisao_classes.AssemblyInfoInputs.cache
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\revisao_classes\obj\Debug\net7.0\revisao_classes.AssemblyInfo.cs
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\revisao_classes\obj\Debug\net7.0\revisao_classes.csproj.CoreCompileInputs.cache
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\revisao_classes\obj\Debug\net7.0\revisao_classes.dll
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\revisao_classes\obj\Debug\net7.0\refint\revisao_classes.dll
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\revisao_classes\obj\Debug\net7.0\revisao_classes.pdb
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\revisao_classes\obj\Debug\net7.0\revisao_classes.genruntimeconfig.cache
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\revisao_classes\obj\Debug\net7.0\ref\revisao_classes.dll

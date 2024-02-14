@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "revisao_classes/1.0.0": {
+        "runtime": {
+          "revisao_classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "revisao_classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

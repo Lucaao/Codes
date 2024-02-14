@@ -1,0 +1,14 @@
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_21\exemplos\bin\Debug\net7.0\exemplos.exe
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_21\exemplos\bin\Debug\net7.0\exemplos.deps.json
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_21\exemplos\bin\Debug\net7.0\exemplos.runtimeconfig.json
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_21\exemplos\bin\Debug\net7.0\exemplos.dll
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_21\exemplos\bin\Debug\net7.0\exemplos.pdb
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_21\exemplos\obj\Debug\net7.0\exemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_21\exemplos\obj\Debug\net7.0\exemplos.AssemblyInfoInputs.cache
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_21\exemplos\obj\Debug\net7.0\exemplos.AssemblyInfo.cs
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_21\exemplos\obj\Debug\net7.0\exemplos.csproj.CoreCompileInputs.cache
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_21\exemplos\obj\Debug\net7.0\exemplos.dll
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_21\exemplos\obj\Debug\net7.0\refint\exemplos.dll
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_21\exemplos\obj\Debug\net7.0\exemplos.pdb
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_21\exemplos\obj\Debug\net7.0\exemplos.genruntimeconfig.cache
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_21\exemplos\obj\Debug\net7.0\ref\exemplos.dll
