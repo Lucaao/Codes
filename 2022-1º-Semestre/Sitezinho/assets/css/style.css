@@ -1,0 +1,24 @@
+header {
+    background-image: url('../img/logo/logo_caderniquinhos_fundo_header.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    object-fit:cover;
+}
+h1,h3 {
+    color: #b84c65;
+}
+.carousel-inner > .carousel-item > img {
+    width: 1000px;
+    height: 600px; 
+    object-fit: cover;
+}
+.navbar-nav > li:hover >a {
+    color:black;
+}
+.nav-link:hover {
+    color:black;
+}
+.nav-link {
+    color:#b84c65;
+}
