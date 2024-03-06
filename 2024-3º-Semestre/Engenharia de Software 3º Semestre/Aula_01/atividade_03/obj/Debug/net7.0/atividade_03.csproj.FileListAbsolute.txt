@@ -1,0 +1,14 @@
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2024-3º-Semestre\Engenharia de Software 3º Semestre\Aula_01\atividade_03\bin\Debug\net7.0\atividade_03.exe
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2024-3º-Semestre\Engenharia de Software 3º Semestre\Aula_01\atividade_03\bin\Debug\net7.0\atividade_03.deps.json
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2024-3º-Semestre\Engenharia de Software 3º Semestre\Aula_01\atividade_03\bin\Debug\net7.0\atividade_03.runtimeconfig.json
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2024-3º-Semestre\Engenharia de Software 3º Semestre\Aula_01\atividade_03\bin\Debug\net7.0\atividade_03.dll
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2024-3º-Semestre\Engenharia de Software 3º Semestre\Aula_01\atividade_03\bin\Debug\net7.0\atividade_03.pdb
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2024-3º-Semestre\Engenharia de Software 3º Semestre\Aula_01\atividade_03\obj\Debug\net7.0\atividade_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2024-3º-Semestre\Engenharia de Software 3º Semestre\Aula_01\atividade_03\obj\Debug\net7.0\atividade_03.AssemblyInfoInputs.cache
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2024-3º-Semestre\Engenharia de Software 3º Semestre\Aula_01\atividade_03\obj\Debug\net7.0\atividade_03.AssemblyInfo.cs
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2024-3º-Semestre\Engenharia de Software 3º Semestre\Aula_01\atividade_03\obj\Debug\net7.0\atividade_03.csproj.CoreCompileInputs.cache
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2024-3º-Semestre\Engenharia de Software 3º Semestre\Aula_01\atividade_03\obj\Debug\net7.0\atividade_03.dll
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2024-3º-Semestre\Engenharia de Software 3º Semestre\Aula_01\atividade_03\obj\Debug\net7.0\refint\atividade_03.dll
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2024-3º-Semestre\Engenharia de Software 3º Semestre\Aula_01\atividade_03\obj\Debug\net7.0\atividade_03.pdb
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2024-3º-Semestre\Engenharia de Software 3º Semestre\Aula_01\atividade_03\obj\Debug\net7.0\atividade_03.genruntimeconfig.cache
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2024-3º-Semestre\Engenharia de Software 3º Semestre\Aula_01\atividade_03\obj\Debug\net7.0\ref\atividade_03.dll
