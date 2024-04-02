@@ -9,7 +9,7 @@ Adicione um método chamado informacoesVooque retorne uma string com todas as in
 Crie uma instância dessa classe, atribuindo valores aos atributos, e utilize o método informacoesVoo para exibir os detalhes do voo. */
 
 // Instancia do Voo1 com parâmetros
-Voo Voo1 = new Voo ("Latam", "Porto Alegre - RS", "São Paulo - SP", "25/03/2024", 890);
+Voo Voo1 = new Voo ("Latam", "Porto Alegre - RS", "São Paulo - SP", "25/03/2024", 880);
 Voo1.informacoesVoo();
 
 // Instancia do Voo2 com parâmetros
