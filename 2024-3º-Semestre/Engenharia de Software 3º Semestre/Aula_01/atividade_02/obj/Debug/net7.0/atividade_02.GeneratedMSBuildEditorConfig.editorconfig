@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = atividade_02
-build_property.ProjectDir = c:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2024-3º-Semestre\Engenharia de Software 3º Semestre\Aula_01\atividade_02\
+build_property.ProjectDir = c:\Users\Lucas\Documents\Aula\ulbra\2024-3º-Semestre\Engenharia de Software 3º Semestre\Aula_01\atividade_02\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
