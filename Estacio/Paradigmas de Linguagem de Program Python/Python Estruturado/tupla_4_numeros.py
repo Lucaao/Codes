@@ -1,13 +1,15 @@
-# Fazer ATIVIDADE 75 Tupla 
-# 1) Quantas vezes apareceu o Nº 9.
-# 2) Em que posição foi digitado o primeiro valor 3.
-# 3) Quais foram os números pares. 
+# Exercício Python #075 - Análise de dados em uma Tupla
 
-pares = 0; 
-print("Tupla com valores!"); 
-numeros = tuple(int(input("Digite um número: "))for num in range(4)); 
-if numeros % 2 == 0: 
-    pares = numeros; 
-    print(pares); 
+numeros = tuple(int (input("Digite um número: ")) for n in range(0,4)); 
 
-print(numeros.count(9)); 
+nove = numeros.count(9); 
+if 3 in numeros: 
+    tres = numeros.index(3); 
+    print(f"O número 3 apareceu pela primeira vez na posição {tres}!"); 
+def pares (tupla):
+    for num in tupla:
+        if num % 2 == 0: 
+            print(f"Estes foram os números pares na tupla {num}!"); 
+
+print(f"O número 9 apareceu {nove} vezes!"); 
+pares(numeros); 
