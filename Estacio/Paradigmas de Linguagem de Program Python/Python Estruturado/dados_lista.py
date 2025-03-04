@@ -9,13 +9,12 @@ while True:
     if numero == 0:
         print("Finalizando!"); 
         break; 
-    
-if 5 in lista: 
-    print("\nO 5 está na lista!"); 
-elif 5 not in lista: 
-    print("\nO 5 não está na lista!"); 
 
 decrescente = sorted(lista, reverse=True); 
 digitados = len(lista); 
 print(f"Lista em decrescente: {decrescente}!"); 
 print(f"Foram digitados {digitados} números!"); 
+if 5 in lista: 
+    print("\nO 5 está na lista!"); 
+else: 
+    print("\nO 5 não está na lista!"); 
