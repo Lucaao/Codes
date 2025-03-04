@@ -13,7 +13,7 @@ while True:
 if 5 in lista: 
     print("\nO 5 está na lista!"); 
 elif 5 not in lista: 
-    print("\nO 5 não está na lista!")
+    print("\nO 5 não está na lista!"); 
 
 decrescente = sorted(lista, reverse=True); 
 digitados = len(lista); 
